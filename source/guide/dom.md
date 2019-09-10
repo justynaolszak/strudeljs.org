@@ -44,7 +44,7 @@ class Example {
 
 ## Manipulating DOM
 
-Similar to traversing, manipulation methods iareprovided, with most common use cases like toggling classes, appending html, accessing data attributes etc.
+Similar to traversing, manipulation methods are provided, with most common use cases like toggling classes, appending html, accessing data attributes etc.
 
 ```js
 class Example {
